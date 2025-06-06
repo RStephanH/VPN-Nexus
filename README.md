@@ -9,7 +9,7 @@ In addition to setting up the VPN server, this project will also involve configu
 ### Creating the OpenVPN Server and Certificate Authority
 
 1. **Set Up the OpenVPN Server**: 
-   - Install OpenVPN on your server.
+   - Install OpenVPN on the server.
    - Configure the server settings to establish a secure VPN connection.
 
 2. **Create a Certificate Authority (CA)**: 
