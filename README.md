@@ -31,3 +31,6 @@ In addition to setting up the VPN server, this project will also involve configu
 7. **Connect and Test the VPN Connection**: 
    - Establish a connection from the VPN clients to the server.
    - Test the VPN connection to verify that traffic is being sent and received securely.
+
+   ## Topology
+![alt topology](./assets/vpn-nexus-topo.png)
